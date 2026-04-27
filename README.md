@@ -20,4 +20,5 @@ A Python script to generate unique, print-ready Latvian Wedding Bingo cards usin
 
 ## Usage
 Run the script via terminal:
+```bash
 python3 bingo_cards.py
