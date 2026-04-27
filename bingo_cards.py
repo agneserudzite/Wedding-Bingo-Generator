@@ -10,8 +10,8 @@ from reportlab.lib import colors
 # 1. CONFIGURATION (Edit everything here)
 # ==========================================
 class Config:
-    OUTPUT_FILE = "Wedding_Bingo_2026.pdf"
-    NUM_CARDS = 44
+    OUTPUT_FILE = "Bingo_Test.pdf"
+    NUM_CARDS = 1
     GRID_SIZE = 3
     
     # --- Fonts ---
